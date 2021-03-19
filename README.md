@@ -1,0 +1,1 @@
+This is Kamil`s first git project after big comeback
